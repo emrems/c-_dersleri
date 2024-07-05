@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\bin\Debug\switch case ile atm uygulaması.exe.config
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\bin\Debug\switch case ile atm uygulaması.exe
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\bin\Debug\switch case ile atm uygulaması.pdb
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\obj\Debug\switch case ile atm uygulaması.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\obj\Debug\switch case ile atm uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\obj\Debug\switch case ile atm uygulaması.exe
+C:\Users\emre\Desktop\c# dersleri\switch case ile atm uygulaması\obj\Debug\switch case ile atm uygulaması.pdb

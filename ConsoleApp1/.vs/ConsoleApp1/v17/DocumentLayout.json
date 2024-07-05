@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c# dersleri\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D8A357-0E9F-4103-88DA-B947AECF9DCC}|..\\login uygulamas\u0131\\login uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c# dersleri\\login uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6769107B-212D-4E23-AC2C-2C6544DF845E}|..\\Break contunie\\Break contunie.csproj|c:\\users\\emre\\desktop\\c# dersleri\\break contunie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F736E-28C0-4BF3-8DFC-6D4F0D9C0591}|..\\While \u00F6rnekleri\\While \u00F6rnekleri.csproj|c:\\users\\emre\\desktop\\c# dersleri\\while \u00F6rnekleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c# dersleri\\login uygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "..\\login uygulamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c# dersleri\\login uygulamas\u0131\\Program.cs",
+              "RelativeToolTip": "..\\login uygulamas\u0131\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:51:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c# dersleri\\Break contunie\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Break contunie\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c# dersleri\\Break contunie\\Program.cs",
+              "RelativeToolTip": "..\\Break contunie\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:30:20.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c# dersleri\\While \u00F6rnekleri\\Program.cs",
+              "RelativeDocumentMoniker": "..\\While \u00F6rnekleri\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c# dersleri\\While \u00F6rnekleri\\Program.cs",
+              "RelativeToolTip": "..\\While \u00F6rnekleri\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA7wB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:21:11.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

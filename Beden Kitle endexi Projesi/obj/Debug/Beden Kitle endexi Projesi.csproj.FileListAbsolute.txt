@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\bin\Debug\Beden Kitle endexi Projesi.exe.config
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\bin\Debug\Beden Kitle endexi Projesi.exe
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\bin\Debug\Beden Kitle endexi Projesi.pdb
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\obj\Debug\Beden Kitle endexi Projesi.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\obj\Debug\Beden Kitle endexi Projesi.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\obj\Debug\Beden Kitle endexi Projesi.exe
+C:\Users\emre\Desktop\c# dersleri\Beden Kitle endexi Projesi\obj\Debug\Beden Kitle endexi Projesi.pdb

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "g\u00F6rev-veri tipleri",
+      "appliesTo": "veri tipleri/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "g\u00F6rev-yeni",
+      "appliesTo": "ConsoleApp1/yeni.cs",
+      "type": "launch"
+    }
+  ]
+}

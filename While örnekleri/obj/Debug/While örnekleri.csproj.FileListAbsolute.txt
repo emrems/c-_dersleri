@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\bin\Debug\While örnekleri.exe.config
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\bin\Debug\While örnekleri.exe
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\bin\Debug\While örnekleri.pdb
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\obj\Debug\While örnekleri.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\obj\Debug\While örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\obj\Debug\While örnekleri.exe
+C:\Users\emre\Desktop\c# dersleri\While örnekleri\obj\Debug\While örnekleri.pdb

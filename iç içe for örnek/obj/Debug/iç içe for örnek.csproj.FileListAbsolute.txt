@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\bin\Debug\iç içe for örnek.exe.config
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\bin\Debug\iç içe for örnek.exe
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\bin\Debug\iç içe for örnek.pdb
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\obj\Debug\iç içe for örnek.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\obj\Debug\iç içe for örnek.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\obj\Debug\iç içe for örnek.exe
+C:\Users\emre\Desktop\c# dersleri\iç içe for örnek\obj\Debug\iç içe for örnek.pdb

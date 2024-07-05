@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\bin\Debug\mini atm uygulaması.exe.config
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\bin\Debug\mini atm uygulaması.exe
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\bin\Debug\mini atm uygulaması.pdb
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\obj\Debug\mini atm uygulaması.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\obj\Debug\mini atm uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\obj\Debug\mini atm uygulaması.exe
+C:\Users\emre\Desktop\c# dersleri\mini atm uygulaması\obj\Debug\mini atm uygulaması.pdb

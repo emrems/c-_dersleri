@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\Break contunie\bin\Debug\Break contunie.exe.config
+C:\Users\emre\Desktop\c# dersleri\Break contunie\bin\Debug\Break contunie.exe
+C:\Users\emre\Desktop\c# dersleri\Break contunie\bin\Debug\Break contunie.pdb
+C:\Users\emre\Desktop\c# dersleri\Break contunie\obj\Debug\Break contunie.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\Break contunie\obj\Debug\Break contunie.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\Break contunie\obj\Debug\Break contunie.exe
+C:\Users\emre\Desktop\c# dersleri\Break contunie\obj\Debug\Break contunie.pdb

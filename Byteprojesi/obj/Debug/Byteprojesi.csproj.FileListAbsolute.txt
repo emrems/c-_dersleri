@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\bin\Debug\Byteprojesi.exe.config
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\bin\Debug\Byteprojesi.exe
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\bin\Debug\Byteprojesi.pdb
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\obj\Debug\Byteprojesi.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\obj\Debug\Byteprojesi.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\obj\Debug\Byteprojesi.exe
+C:\Users\emre\Desktop\c# dersleri\Byteprojesi\obj\Debug\Byteprojesi.pdb

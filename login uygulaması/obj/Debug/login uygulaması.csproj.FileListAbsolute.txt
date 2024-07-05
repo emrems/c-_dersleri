@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\bin\Debug\login uygulaması.exe.config
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\bin\Debug\login uygulaması.exe
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\bin\Debug\login uygulaması.pdb
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\obj\Debug\login uygulaması.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\obj\Debug\login uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\obj\Debug\login uygulaması.exe
+C:\Users\emre\Desktop\c# dersleri\login uygulaması\obj\Debug\login uygulaması.pdb
