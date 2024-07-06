@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\bin\Debug\metotların tanımı.exe.config
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\bin\Debug\metotların tanımı.exe
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\bin\Debug\metotların tanımı.pdb
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\obj\Debug\metotların tanımı.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\obj\Debug\metotların tanımı.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\obj\Debug\metotların tanımı.exe
+C:\Users\emre\Desktop\c#_dersleri\metotların tanımı\obj\Debug\metotların tanımı.pdb

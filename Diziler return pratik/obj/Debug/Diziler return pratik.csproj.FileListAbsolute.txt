@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\bin\Debug\Diziler return pratik.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\bin\Debug\Diziler return pratik.exe
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\bin\Debug\Diziler return pratik.pdb
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\obj\Debug\Diziler return pratik.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\obj\Debug\Diziler return pratik.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\obj\Debug\Diziler return pratik.exe
+C:\Users\emre\Desktop\c#_dersleri\Diziler return pratik\obj\Debug\Diziler return pratik.pdb

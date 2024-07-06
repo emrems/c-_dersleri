@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\bin\Debug\class oluşturma ve obje türetme.exe.config
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\bin\Debug\class oluşturma ve obje türetme.exe
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\bin\Debug\class oluşturma ve obje türetme.pdb
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\obj\Debug\class oluşturma ve obje türetme.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\obj\Debug\class oluşturma ve obje türetme.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\obj\Debug\class oluşturma ve obje türetme.exe
+C:\Users\emre\Desktop\c#_dersleri\class oluşturma ve obje türetme\obj\Debug\class oluşturma ve obje türetme.pdb

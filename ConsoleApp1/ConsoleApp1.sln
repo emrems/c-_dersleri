@@ -25,6 +25,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizi örnek1", "..\Dizi ör
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizi örnek 2", "..\Dizi örnek 2\Dizi örnek 2.csproj", "{3F1C9951-2EE4-44F0-B5BF-0CAA47D93569}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotların tanımı", "..\metotların tanımı\metotların tanımı.csproj", "{EBB0F0C4-966F-4545-BD31-E70B285F43EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler return pratik", "..\Diziler return pratik\Diziler return pratik.csproj", "{EBC64472-A142-4B50-8317-5C41A9BF9D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class oluşturma ve obje türetme", "..\class oluşturma ve obje türetme\class oluşturma ve obje türetme.csproj", "{CCABB908-C277-4D24-9D42-199FF0B06A9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +81,18 @@ Global
 		{3F1C9951-2EE4-44F0-B5BF-0CAA47D93569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F1C9951-2EE4-44F0-B5BF-0CAA47D93569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F1C9951-2EE4-44F0-B5BF-0CAA47D93569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB0F0C4-966F-4545-BD31-E70B285F43EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB0F0C4-966F-4545-BD31-E70B285F43EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB0F0C4-966F-4545-BD31-E70B285F43EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB0F0C4-966F-4545-BD31-E70B285F43EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC64472-A142-4B50-8317-5C41A9BF9D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC64472-A142-4B50-8317-5C41A9BF9D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC64472-A142-4B50-8317-5C41A9BF9D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC64472-A142-4B50-8317-5C41A9BF9D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
