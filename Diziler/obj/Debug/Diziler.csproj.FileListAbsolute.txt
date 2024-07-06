@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Diziler\bin\Debug\Diziler.exe
+C:\Users\emre\Desktop\c#_dersleri\Diziler\bin\Debug\Diziler.pdb
+C:\Users\emre\Desktop\c#_dersleri\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Diziler\obj\Debug\Diziler.exe
+C:\Users\emre\Desktop\c#_dersleri\Diziler\obj\Debug\Diziler.pdb

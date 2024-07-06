@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\bin\Debug\Dizi örnek1.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\bin\Debug\Dizi örnek1.exe
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\bin\Debug\Dizi örnek1.pdb
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\obj\Debug\Dizi örnek1.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\obj\Debug\Dizi örnek1.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\obj\Debug\Dizi örnek1.exe
+C:\Users\emre\Desktop\c#_dersleri\Dizi örnek1\obj\Debug\Dizi örnek1.pdb
