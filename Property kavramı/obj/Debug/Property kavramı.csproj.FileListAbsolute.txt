@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\bin\Debug\Property kavramı.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\bin\Debug\Property kavramı.exe
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\bin\Debug\Property kavramı.pdb
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\obj\Debug\Property kavramı.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\obj\Debug\Property kavramı.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\obj\Debug\Property kavramı.exe
+C:\Users\emre\Desktop\c#_dersleri\Property kavramı\obj\Debug\Property kavramı.pdb

@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\bin\Debug\Kapsülleme.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\bin\Debug\Kapsülleme.exe
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\bin\Debug\Kapsülleme.pdb
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\obj\Debug\Kapsülleme.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\obj\Debug\Kapsülleme.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\obj\Debug\Kapsülleme.exe
+C:\Users\emre\Desktop\c#_dersleri\Kapsülleme\obj\Debug\Kapsülleme.pdb
