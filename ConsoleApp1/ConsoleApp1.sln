@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler return pratik", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class oluşturma ve obje türetme", "..\class oluşturma ve obje türetme\class oluşturma ve obje türetme.csproj", "{CCABB908-C277-4D24-9D42-199FF0B06A9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class örnek 1", "..\class örnek 1\class örnek 1.csproj", "{44DD7B8C-8B4B-4730-A43A-034D9E6F9AF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCABB908-C277-4D24-9D42-199FF0B06A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DD7B8C-8B4B-4730-A43A-034D9E6F9AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DD7B8C-8B4B-4730-A43A-034D9E6F9AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DD7B8C-8B4B-4730-A43A-034D9E6F9AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DD7B8C-8B4B-4730-A43A-034D9E6F9AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
