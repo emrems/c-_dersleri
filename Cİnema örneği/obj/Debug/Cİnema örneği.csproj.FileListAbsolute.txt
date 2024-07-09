@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\bin\Debug\Cİnema örneği.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\bin\Debug\Cİnema örneği.exe
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\bin\Debug\Cİnema örneği.pdb
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\obj\Debug\Cİnema örneği.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\obj\Debug\Cİnema örneği.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\obj\Debug\Cİnema örneği.exe
+C:\Users\emre\Desktop\c#_dersleri\Cİnema örneği\obj\Debug\Cİnema örneği.pdb
