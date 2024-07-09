@@ -1,0 +1,7 @@
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\bin\Debug\Static değişken kullanımı.exe.config
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\bin\Debug\Static değişken kullanımı.exe
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\bin\Debug\Static değişken kullanımı.pdb
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\obj\Debug\Static değişken kullanımı.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\obj\Debug\Static değişken kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\obj\Debug\Static değişken kullanımı.exe
+C:\Users\emre\Desktop\c#_dersleri\Static değişken kullanımı\obj\Debug\Static değişken kullanımı.pdb
