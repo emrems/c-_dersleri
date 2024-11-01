@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBE3894C-6CE8-421A-A116-4A860ADF4B49}|..\\Static de\u011Fi\u015Fken kullan\u0131m\u0131\\Static de\u011Fi\u015Fken kullan\u0131m\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\static de\u011Fi\u015Fken kullan\u0131m\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\yazilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\y\u00F6netici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,19 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Calisan.cs",
+              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Calisan.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Calisan.cs",
+              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Calisan.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:41:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Y\u00F6netici.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
+              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
+              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:35:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yazilimci.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Yazilimci.cs",
+              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Yazilimci.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Yazilimci.cs",
+              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Yazilimci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:02:10.003Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Static de\u011Fi\u015Fken kullan\u0131m\u0131\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Static de\u011Fi\u015Fken kullan\u0131m\u0131\\Program.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Static de\u011Fi\u015Fken kullan\u0131m\u0131\\Program.cs",
-              "RelativeToolTip": "..\\Static de\u011Fi\u015Fken kullan\u0131m\u0131\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Program.cs*",
+              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T15:48:04.053Z",
+              "WhenOpened": "2024-10-31T16:41:08.826Z",
               "EditorCaption": ""
             }
           ]
