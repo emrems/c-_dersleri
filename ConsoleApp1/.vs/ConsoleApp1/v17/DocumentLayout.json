@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\ucgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\kare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\yazilimci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\sekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59516CD4-9A31-49DB-A69E-7957F96F59B3}|..\\inheritance \u00F6rnek2\\inheritance \u00F6rnek2.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\inheritance \u00F6rnek2\\y\u00F6netici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\dikdortgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +25,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calisan.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Calisan.cs",
-              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Calisan.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Calisan.cs",
-              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Calisan.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwCYAAAAJAAAA",
+              "Title": "Kare.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Kare.cs",
+              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Kare.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Kare.cs",
+              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Kare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T07:41:36.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Y\u00F6netici.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
-              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
-              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Y\u00F6netici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:35:43.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Yazilimci.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Yazilimci.cs",
-              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Yazilimci.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Yazilimci.cs",
-              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Yazilimci.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T17:02:10.003Z",
+              "WhenOpened": "2024-11-01T12:09:39.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\inheritance \u00F6rnek2\\Program.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\inheritance \u00F6rnek2\\Program.cs",
-              "RelativeToolTip": "..\\inheritance \u00F6rnek2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Title": "Ucgen.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Ucgen.cs",
+              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Ucgen.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Ucgen.cs",
+              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Ucgen.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:41:08.826Z",
+              "WhenOpened": "2024-11-01T11:59:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dikdortgen.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
+              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
+              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:41:49.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sekil.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Sekil.cs",
+              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Sekil.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Sekil.cs",
+              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Sekil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:16:26.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Program.cs",
+              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Program.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwIcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:15:52.015Z",
               "EditorCaption": ""
             }
           ]
