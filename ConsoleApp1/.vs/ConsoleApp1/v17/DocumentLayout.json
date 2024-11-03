@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\ucgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\kare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\imusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\sekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B814FBD2-5D77-432B-A58D-A8537478DF58}|..\\polymorphism \u00F6rnek 1\\polymorphism \u00F6rnek 1.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\dikdortgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +25,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Kare.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Kare.cs",
-              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Kare.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Kare.cs",
-              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Kare.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:09:39.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ucgen.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Ucgen.cs",
-              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Ucgen.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Ucgen.cs",
-              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Ucgen.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAJAAAA",
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
+              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
+              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:59:13.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dikdortgen.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
-              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
-              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Dikdortgen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:41:49.243Z",
+              "WhenOpened": "2024-11-03T10:55:03.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Sekil.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Sekil.cs",
-              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Sekil.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Sekil.cs",
-              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Sekil.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwB0AAAAdAAAA",
+              "Title": "MySql.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
+              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
+              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:16:26.447Z",
+              "WhenOpened": "2024-11-03T10:52:53.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\polymorphism \u00F6rnek 1\\Program.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\polymorphism \u00F6rnek 1\\Program.cs",
-              "RelativeToolTip": "..\\polymorphism \u00F6rnek 1\\Program.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAYwIcAAAABAAAA",
+              "Title": "SqlServer.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
+              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
+              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:15:52.015Z",
+              "WhenOpened": "2024-11-03T10:51:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs",
+              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs*",
+              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:49:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
+              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:48:10.533Z",
               "EditorCaption": ""
             }
           ]

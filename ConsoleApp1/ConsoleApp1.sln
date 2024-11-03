@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "..\polymorp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism örnek 1", "..\polymorphism örnek 1\polymorphism örnek 1.csproj", "{B814FBD2-5D77-432B-A58D-A8537478DF58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface", "..\interface\interface.csproj", "{F3A584C1-C3D7-4A18-815D-518900FA1302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İnterface kullanımı nedeni", "..\İnterface kullanımı nedeni\İnterface kullanımı nedeni.csproj", "{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{B814FBD2-5D77-432B-A58D-A8537478DF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B814FBD2-5D77-432B-A58D-A8537478DF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B814FBD2-5D77-432B-A58D-A8537478DF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A584C1-C3D7-4A18-815D-518900FA1302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A584C1-C3D7-4A18-815D-518900FA1302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A584C1-C3D7-4A18-815D-518900FA1302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A584C1-C3D7-4A18-815D-518900FA1302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
