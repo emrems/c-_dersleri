@@ -65,6 +65,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface", "..\interface\i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İnterface kullanımı nedeni", "..\İnterface kullanımı nedeni\İnterface kullanımı nedeni.csproj", "{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism örnek2", "..\polymorphism örnek2\polymorphism örnek2.csproj", "{71903FB2-A22E-48DC-A545-22647D8DA21D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "polymorphism örnekleri", "polymorphism örnekleri", "{BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ödeme sistemleri", "..\ödeme sistemleri\ödeme sistemleri.csproj", "{15AAEE5A-6589-4E10-BB38-D875532488D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,9 +201,22 @@ Global
 		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71903FB2-A22E-48DC-A545-22647D8DA21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71903FB2-A22E-48DC-A545-22647D8DA21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71903FB2-A22E-48DC-A545-22647D8DA21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71903FB2-A22E-48DC-A545-22647D8DA21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B814FBD2-5D77-432B-A58D-A8537478DF58} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
+		{71903FB2-A22E-48DC-A545-22647D8DA21D} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
+		{15AAEE5A-6589-4E10-BB38-D875532488D2} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A9282D2-71D8-4572-AAA1-A01EF3ECF0BC}

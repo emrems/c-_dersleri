@@ -3,19 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15AAEE5A-6589-4E10-BB38-D875532488D2}|..\\\u00F6deme sistemleri\\\u00F6deme sistemleri.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u00F6deme sistemleri\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\imusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15AAEE5A-6589-4E10-BB38-D875532488D2}|..\\\u00F6deme sistemleri\\\u00F6deme sistemleri.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u00F6deme sistemleri\\nakit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15AAEE5A-6589-4E10-BB38-D875532488D2}|..\\\u00F6deme sistemleri\\\u00F6deme sistemleri.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u00F6deme sistemleri\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEDB7DFC-8D89-43CF-AD33-D6372EF2CFE4}|..\\\u0130nterface kullan\u0131m\u0131 nedeni\\\u0130nterface kullan\u0131m\u0131 nedeni.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15AAEE5A-6589-4E10-BB38-D875532488D2}|..\\\u00F6deme sistemleri\\\u00F6deme sistemleri.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\\u00F6deme sistemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MusteriController.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
-              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
-              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MusteriController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Nakit.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\Nakit.cs",
+              "RelativeDocumentMoniker": "..\\\u00F6deme sistemleri\\Nakit.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\Nakit.cs",
+              "RelativeToolTip": "..\\\u00F6deme sistemleri\\Nakit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:55:03.978Z",
+              "WhenOpened": "2024-11-03T15:07:39.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MySql.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
-              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
-              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\MySql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "..\\\u00F6deme sistemleri\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\CreditCardPayment.cs",
+              "RelativeToolTip": "..\\\u00F6deme sistemleri\\CreditCardPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:52:53.602Z",
+              "WhenOpened": "2024-11-03T14:10:12.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SqlServer.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
-              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
-              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\SqlServer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:51:13.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IMusteri.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs",
-              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs*",
-              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\IMusteri.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:49:02.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
-              "RelativeDocumentMoniker": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
-              "RelativeToolTip": "..\\\u0130nterface kullan\u0131m\u0131 nedeni\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u00F6deme sistemleri\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\Program.cs",
+              "RelativeToolTip": "..\\\u00F6deme sistemleri\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T10:48:10.533Z",
+              "WhenOpened": "2024-11-03T14:05:14.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\\u00F6deme sistemleri\\Payment.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\\u00F6deme sistemleri\\Payment.cs",
+              "RelativeToolTip": "..\\\u00F6deme sistemleri\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:24:45.215Z",
               "EditorCaption": ""
             }
           ]
