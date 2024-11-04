@@ -21,7 +21,7 @@ namespace @interface
             IMusteri musteri1 = new Musteri();//Musteri sınıfından oluştrulan örnek IMusteri tarafından karşılanabilir
             musteri1.getir();
             /*
-            Bu şekilde bir interface'in bir örneğini oluştruamayız
+            Bu şekilde bir interface'in bir örneğini oluşturamayız
             IMusteri musteri1 = new IMusteri();*/
 
             Console.ReadLine();

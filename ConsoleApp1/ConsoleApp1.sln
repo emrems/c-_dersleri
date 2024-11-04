@@ -71,6 +71,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "polymorphism örnekleri", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ödeme sistemleri", "..\ödeme sistemleri\ödeme sistemleri.csproj", "{15AAEE5A-6589-4E10-BB38-D875532488D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract classlar", "..\abstract classlar\abstract classlar.csproj", "{AEE7A3A9-8F57-49C0-BD6B-4F2992958BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract class örnek1", "..\Abstract class örnek1\Abstract class örnek1.csproj", "{0586322A-DFB6-40B0-9E9D-69994B079FB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "abstract class örnekleri", "abstract class örnekleri", "{66931F69-95A1-48E1-9C81-EC1FE4A7AFC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hayvanat bahçesi uygulaması", "..\hayvanat bahçesi uygulaması\hayvanat bahçesi uygulaması.csproj", "{0178D07F-6750-42D2-8EF9-C1375E71CE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odeme yöntemleri uygulaması", "..\odeme yöntemleri uygulaması\odeme yöntemleri uygulaması.csproj", "{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +219,22 @@ Global
 		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15AAEE5A-6589-4E10-BB38-D875532488D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE7A3A9-8F57-49C0-BD6B-4F2992958BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE7A3A9-8F57-49C0-BD6B-4F2992958BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE7A3A9-8F57-49C0-BD6B-4F2992958BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE7A3A9-8F57-49C0-BD6B-4F2992958BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0586322A-DFB6-40B0-9E9D-69994B079FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0586322A-DFB6-40B0-9E9D-69994B079FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0586322A-DFB6-40B0-9E9D-69994B079FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0586322A-DFB6-40B0-9E9D-69994B079FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0178D07F-6750-42D2-8EF9-C1375E71CE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0178D07F-6750-42D2-8EF9-C1375E71CE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0178D07F-6750-42D2-8EF9-C1375E71CE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0178D07F-6750-42D2-8EF9-C1375E71CE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,6 +243,8 @@ Global
 		{B814FBD2-5D77-432B-A58D-A8537478DF58} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
 		{71903FB2-A22E-48DC-A545-22647D8DA21D} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
 		{15AAEE5A-6589-4E10-BB38-D875532488D2} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
+		{0178D07F-6750-42D2-8EF9-C1375E71CE78} = {66931F69-95A1-48E1-9C81-EC1FE4A7AFC6}
+		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316} = {66931F69-95A1-48E1-9C81-EC1FE4A7AFC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A9282D2-71D8-4572-AAA1-A01EF3ECF0BC}
