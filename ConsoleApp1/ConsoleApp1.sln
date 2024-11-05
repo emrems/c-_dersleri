@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hayvanat bahçesi uygulamas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odeme yöntemleri uygulaması", "..\odeme yöntemleri uygulaması\odeme yöntemleri uygulaması.csproj", "{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum yapısı", "..\Enum yapısı\Enum yapısı.csproj", "{FAC5B5CA-9BB8-4CCB-AC5F-6A2828AC08E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum Örnek1", "..\Enum Örnek1\Enum Örnek1.csproj", "{BD5E37B9-DA0F-4310-B519-216401C4F487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,6 +239,14 @@ Global
 		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC5B5CA-9BB8-4CCB-AC5F-6A2828AC08E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC5B5CA-9BB8-4CCB-AC5F-6A2828AC08E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC5B5CA-9BB8-4CCB-AC5F-6A2828AC08E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC5B5CA-9BB8-4CCB-AC5F-6A2828AC08E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5E37B9-DA0F-4310-B519-216401C4F487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5E37B9-DA0F-4310-B519-216401C4F487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5E37B9-DA0F-4310-B519-216401C4F487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5E37B9-DA0F-4310-B519-216401C4F487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
