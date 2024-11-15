@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23106B92-13A5-4C41-8B51-F0BAA6B1B155}|..\\GenericClasslarNedir\\GenericClasslarNedir.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\genericclasslarnedir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23106B92-13A5-4C41-8B51-F0BAA6B1B155}|..\\GenericClasslarNedir\\GenericClasslarNedir.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\genericclasslarnedir\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\envanter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23106B92-13A5-4C41-8B51-F0BAA6B1B155}|..\\GenericClasslarNedir\\GenericClasslarNedir.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\genericclasslarnedir\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\elektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23106B92-13A5-4C41-8B51-F0BAA6B1B155}|..\\GenericClasslarNedir\\GenericClasslarNedir.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\genericclasslarnedir\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\giyim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +26,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Urun.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Urun.cs",
-              "RelativeDocumentMoniker": "..\\GenericClasslarNedir\\Urun.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Urun.cs",
-              "RelativeToolTip": "..\\GenericClasslarNedir\\Urun.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "Elektronik.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Elektronik.cs",
+              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Elektronik.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Elektronik.cs",
+              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Elektronik.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:55:31.606Z",
+              "WhenOpened": "2024-11-15T11:35:10.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giyim.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Giyim.cs",
+              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Giyim.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Giyim.cs",
+              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Giyim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:19:36.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\GenericClasslarNedir\\Repository.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Repository.cs",
-              "RelativeToolTip": "..\\GenericClasslarNedir\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Title": "Envanter.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Envanter.cs",
+              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Envanter.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Envanter.cs",
+              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Envanter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:45:55.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Musteri.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Musteri.cs",
-              "RelativeDocumentMoniker": "..\\GenericClasslarNedir\\Musteri.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Musteri.cs",
-              "RelativeToolTip": "..\\GenericClasslarNedir\\Musteri.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:44:18.013Z",
+              "WhenOpened": "2024-11-15T09:07:24.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Program.cs",
-              "RelativeDocumentMoniker": "..\\GenericClasslarNedir\\Program.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\GenericClasslarNedir\\Program.cs*",
-              "RelativeToolTip": "..\\GenericClasslarNedir\\Program.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAlAAAA",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Program.cs*",
+              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Program.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T07:43:14.129Z",
+              "WhenOpened": "2024-11-15T09:06:59.167Z",
               "EditorCaption": ""
             }
           ]

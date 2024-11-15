@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenericClasslarNedir
 {
-    public class Repository<T>//classı generic olarak tanımladım. T gördüğü her yere mainde parametre olarak verdiğim şeyi yazacak müsteri ise urun ise Mesela personel tipinde verirse geitr metodu persoel tipinde dönencek. işşçi tipinde verirse getir metodu işçi tipinde dönececk. Aslında biz dinamikklik kattık
+    public class Repository<T>//classı generic olarak tanımladım. T gördüğü her yere mainde parametre olarak verdiğim şeyi yazacak müsteri ise musteri urun ise urun. Mesela personel tipinde verirse geitr metodu persoel tipinde dönencek. işşçi tipinde verirse getir metodu işçi tipinde dönececk. Bir fonksiyon birden fazla türü karşılayabiliyor
     {
         // veritabanı ile etkileşimde olacaksa genelde classa repository ismi verilir
         public List<T> Getir()//musteri,urun tipinde listeler donecek

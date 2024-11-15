@@ -89,6 +89,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic koleksiyonlar", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClasslarNedir", "..\GenericClasslarNedir\GenericClasslarNedir.csproj", "{23106B92-13A5-4C41-8B51-F0BAA6B1B155}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "generic classlar örnekleri", "generic classlar örnekleri", "{5F38B78B-DCF2-42AA-97E1-5EEC0367D748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "envanter uygulaması", "..\envanter uygulaması\envanter uygulaması.csproj", "{D74B3010-85C0-40D9-AE37-D10F256C88C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +263,10 @@ Global
 		{23106B92-13A5-4C41-8B51-F0BAA6B1B155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23106B92-13A5-4C41-8B51-F0BAA6B1B155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23106B92-13A5-4C41-8B51-F0BAA6B1B155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74B3010-85C0-40D9-AE37-D10F256C88C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74B3010-85C0-40D9-AE37-D10F256C88C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74B3010-85C0-40D9-AE37-D10F256C88C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74B3010-85C0-40D9-AE37-D10F256C88C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -269,6 +277,7 @@ Global
 		{15AAEE5A-6589-4E10-BB38-D875532488D2} = {BB7F8A2B-B356-4CAF-8D0C-3132FDBE6CC5}
 		{0178D07F-6750-42D2-8EF9-C1375E71CE78} = {66931F69-95A1-48E1-9C81-EC1FE4A7AFC6}
 		{11CDD13F-BB35-4773-9CB9-0CBAFFB8F316} = {66931F69-95A1-48E1-9C81-EC1FE4A7AFC6}
+		{D74B3010-85C0-40D9-AE37-D10F256C88C4} = {5F38B78B-DCF2-42AA-97E1-5EEC0367D748}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A9282D2-71D8-4572-AAA1-A01EF3ECF0BC}
