@@ -3,16 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\envanter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\elektronik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D74B3010-85C0-40D9-AE37-D10F256C88C4}|..\\envanter uygulamas\u0131\\envanter uygulamas\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\envanter uygulamas\u0131\\giyim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A09AFB6-86A9-4443-BF26-B045B92BC516}|..\\Deger referans\\Deger referans.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\deger referans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,58 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Elektronik.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Elektronik.cs",
-              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Elektronik.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Elektronik.cs",
-              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Elektronik.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T11:35:10.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Giyim.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Giyim.cs",
-              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Giyim.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Giyim.cs",
-              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Giyim.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T09:19:36.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Envanter.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Envanter.cs",
-              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Envanter.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Envanter.cs",
-              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Envanter.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T09:07:24.725Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Program.cs",
-              "RelativeDocumentMoniker": "..\\envanter uygulamas\u0131\\Program.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\envanter uygulamas\u0131\\Program.cs*",
-              "RelativeToolTip": "..\\envanter uygulamas\u0131\\Program.cs*",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB0AAAAoAAAA",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Deger referans\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Deger referans\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Deger referans\\Program.cs*",
+              "RelativeToolTip": "..\\Deger referans\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T09:06:59.167Z",
+              "WhenOpened": "2025-01-04T11:56:57.294Z",
               "EditorCaption": ""
             }
           ]
