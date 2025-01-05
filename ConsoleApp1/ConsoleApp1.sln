@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic ifadelerin interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kendi Listimizi yazma", "..\Kendi Listimizi yazma\Kendi Listimizi yazma.csproj", "{92A3ADFA-35B2-401C-820A-547163B7C935}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio button kullanımı", "..\Radio button kullanımı\Radio button kullanımı.csproj", "{8CCAA230-5995-4285-9D0B-8CF1E4D46941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{92A3ADFA-35B2-401C-820A-547163B7C935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92A3ADFA-35B2-401C-820A-547163B7C935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92A3ADFA-35B2-401C-820A-547163B7C935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCAA230-5995-4285-9D0B-8CF1E4D46941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCAA230-5995-4285-9D0B-8CF1E4D46941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCAA230-5995-4285-9D0B-8CF1E4D46941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCAA230-5995-4285-9D0B-8CF1E4D46941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -388,6 +394,7 @@ Global
 		{4EA9C196-C80B-4556-B3AE-730993F6A150} = {50A75DBC-B036-4210-8235-9E4CEF132192}
 		{E7471F7A-EFCB-44C4-BC8C-0E1D10A994A5} = {5F38B78B-DCF2-42AA-97E1-5EEC0367D748}
 		{92A3ADFA-35B2-401C-820A-547163B7C935} = {5F38B78B-DCF2-42AA-97E1-5EEC0367D748}
+		{8CCAA230-5995-4285-9D0B-8CF1E4D46941} = {B46BE55B-675F-4A74-BE3E-DBC71B83E04C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A9282D2-71D8-4572-AAA1-A01EF3ECF0BC}

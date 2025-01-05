@@ -5,3 +5,10 @@ C:\Users\emre\Desktop\c# dersleri\karar yapıları\obj\Debug\karar yapıları.cs
 C:\Users\emre\Desktop\c# dersleri\karar yapıları\obj\Debug\karar yapıları.csproj.CoreCompileInputs.cache
 C:\Users\emre\Desktop\c# dersleri\karar yapıları\obj\Debug\karar yapıları.exe
 C:\Users\emre\Desktop\c# dersleri\karar yapıları\obj\Debug\karar yapıları.pdb
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\bin\Debug\karar yapıları.exe.config
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\bin\Debug\karar yapıları.exe
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\bin\Debug\karar yapıları.pdb
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\obj\Debug\karar yapıları.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\obj\Debug\karar yapıları.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\obj\Debug\karar yapıları.exe
+C:\Users\emre\Desktop\c#_dersleri\karar yapıları\obj\Debug\karar yapıları.pdb
