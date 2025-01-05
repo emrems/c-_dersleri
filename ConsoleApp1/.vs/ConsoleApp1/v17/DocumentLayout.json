@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\c#_dersleri\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F35CE46B-5024-4AB5-BFC1-C24A61393DEA}|..\\checkBox kullan\u0131m\u0131\\checkBox kullan\u0131m\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\checkbox kullan\u0131m\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92A3ADFA-35B2-401C-820A-547163B7C935}|..\\Kendi Listimizi yazma\\Kendi Listimizi yazma.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\kendi listimizi yazma\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35CE46B-5024-4AB5-BFC1-C24A61393DEA}|..\\checkBox kullan\u0131m\u0131\\checkBox kullan\u0131m\u0131.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\checkbox kullan\u0131m\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{92A3ADFA-35B2-401C-820A-547163B7C935}|..\\Kendi Listimizi yazma\\Kendi Listimizi yazma.csproj|c:\\users\\emre\\desktop\\c#_dersleri\\kendi listimizi yazma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,27 +21,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\checkBox kullan\u0131m\u0131\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\checkBox kullan\u0131m\u0131\\Form1.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\checkBox kullan\u0131m\u0131\\Form1.cs",
-              "RelativeToolTip": "..\\checkBox kullan\u0131m\u0131\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAwAAAAAAAAAA==",
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Kendi Listimizi yazma\\MyList.cs",
+              "RelativeDocumentMoniker": "..\\Kendi Listimizi yazma\\MyList.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Kendi Listimizi yazma\\MyList.cs*",
+              "RelativeToolTip": "..\\Kendi Listimizi yazma\\MyList.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:42:04.731Z",
+              "WhenOpened": "2025-01-05T11:25:06.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\checkBox kullan\u0131m\u0131\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\checkBox kullan\u0131m\u0131\\Form1.cs",
-              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\checkBox kullan\u0131m\u0131\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\checkBox kullan\u0131m\u0131\\Form1.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Kendi Listimizi yazma\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Kendi Listimizi yazma\\Program.cs",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\c#_dersleri\\Kendi Listimizi yazma\\Program.cs*",
+              "RelativeToolTip": "..\\Kendi Listimizi yazma\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T17:40:37.338Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-05T11:24:45.856Z",
+              "EditorCaption": ""
             }
           ]
         }
